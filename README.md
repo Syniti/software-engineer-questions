@@ -64,8 +64,8 @@ Here are the questions, good luck!
    not for validity or duplication testing (eg, two records may be identical
    but have different IDs).
 
-The output of the program should list the IDs of each invalid record, one per
-line in ascending order.
+The output of the program should list the IDs of each invalid or duplicate
+record, one per line. In the case of duplicates, mark both.
 
 Example:
 
