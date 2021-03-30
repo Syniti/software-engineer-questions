@@ -13,14 +13,14 @@ contribute on day one.
 
 Let's get started!
 
-Please clone or download this repo and use it the folder you will submit to
-us when finished. You may either send us the URL to your git repo or a zip of
+Please clone or download this repo and use it for the exercises described below.
+Once completed you may either send us the URL to your git repo or a zip of
 the folder.
 
-We have four questions that we like to ask to get a sense of who you are and
-then a coding question we use to understand your technical strengths. You can
-write your responses to the first four questions directly in the README or as a
-separate file.
+We have four questions that we like to ask to get a sense of who you are, 
+followed by a coding question we use to understand your technical strengths. 
+You can write your responses to the first four questions directly in the README 
+or as a separate file.
 
 In answering the code question, please submit code as if you intended to
 ship it to production. The details matter. Tests are expected, as is
@@ -30,7 +30,8 @@ only use critical libraries for common functionality, such as parsing JSON or
 writing tests.
 
 We'd recommend you use whatever language you feel strongest in. It doesn't have
-to be one we use — we believe good engineers can be productive in any language.
+to be one we use (mostly Go and JavaScript) — we believe good engineers can be 
+productive in any language.
 
 Here are the questions, good luck!
 
@@ -38,17 +39,17 @@ Here are the questions, good luck!
    you’ve worked on professionally. Just a short paragraph is fine, but I’d
    love to know why you’re proud of it.
 
-1. What's a personal project you're currently working on? This could be a
+2. What's a personal project you're currently working on? This could be a
    coding side project, hobby, or otherwise real world project you're working
    on.
 
-1. Tell us about a technical book or article you read recently, why you liked
+3. Tell us about a technical book or article you read recently, why you liked
    it, and why we should read it.
 
-1. Tell us about one of your favorite products (physical or software) and one
+4. Tell us about one of your favorite products (physical or software) and one
    specific aspect that makes it truly great.
 
-1. In this repo is a `data.json` file. It contains an imaginary example set
+5. In this repo is a `data.json` file. It contains an imaginary example set
    of data a customer might need to migrate from one system to another. It's a
    JSON encoded array of objects. The customer understands some of the data
    might be bad and wants to know which records are invalid so they can ensure
