@@ -1,80 +1,27 @@
-# Software Engineer
+1. What’s your proudest achievement? It can be a personal project or something you’ve worked on professionally. Just a short paragraph is fine, but I’d love to know why you’re proud of it.
 
-Hello, and welcome from the Syniti Engineering Team!
+Ans:- Harbinger Systems was my first company and there I got my first project for a client known as Vector India. The work was to migrate courses which were on legacy, Articulate and Flash technologies, to the new responsive framework. We were using some scripts(writtem my our seniors) for automation of the task and doing other processes manually. For one course it took around two days to migrate. 
+Those scripts were not so efficient, and I thought we could do better. I talked to my manager about it, and explained it to him that we could automate the process better, by updating those scripts and automating other process which were done manually. 
+He told me that we have a time constaint, and if I'll work on automation, who will do the task assigned to me. And if it didn't work as expected, we'll lose time and will not be able to meet deadlines. In short, he had trust issues.
+So I started working on the automation after completing the assigned task.
+After seeing the results, he asked me to work on Automation dedicatedly.
 
-Thank you for your interest in joining Syniti, we're working on some
-interesting and challenging problems and are looking for engineers with a
-growth mindset to join our team. Our interview process helps us learn about
-you as a person and at a technical level. But it's just as important that you
-learn about us, our work, and our expectations so you know what you're
-getting into. We foster a work environment where we are all comfortable and
-love coming to work each day. We don't hire lightly and expect everyone to
-contribute on day one.
+After some time, micro teams were created, and I was leading the team of four, which was working on automation.
+With our efforts we brought down the time of migrating of courses from 2 working days to 4 hours.
 
-Let's get started!
+While looking back at it, I am very proud it because I could see the effect it had on my project in terms of time and efficiency it had. Time assigned for our project was 6 months, and we completed it in just four months. Our clients were very happy with our work, and we bagged another project from the same client.
 
-Please clone or download this repo and use it for the exercises described below.
-Once completed you may either send us the URL to your git repo or a zip of
-the folder.
 
-We have four questions that we like to ask to get a sense of who you are, 
-followed by a coding question we use to understand your technical strengths. 
-You can write your responses to the first four questions directly in the README 
-or as a separate file.
+2. What's a personal project you're currently working on? This could be a coding side project, hobby, or otherwise real world project you're working on.
 
-In answering the code question, please submit code as if you intended to
-ship it to production. The details matter. Tests are expected, as is
-well-written, simple, idiomatic code. While there are many libraries you
-could use, we're expecting to mostly see code that you write yourself. Please
-only use critical libraries for common functionality, such as parsing JSON or
-writing tests.
+Ans:- Currently I am not working on any side project. I have taken up a course from Udemy on microservices and Spring cloud as we are using them in our projects and I wanted to learn more about the same.
 
-We'd recommend you use whatever language you feel strongest in. It doesn't have
-to be one we use (mostly Go and JavaScript) — we believe good engineers can be 
-productive in any language.
+3. Tell us about a technical book or article you read recently, why you liked it, and why we should read it.
 
-Here are the questions, good luck!
+Ans:- Recently read an article about circuit breakers and tracing using slueth, in microservices. I really liked it because how we can use this to make our application resilient, they are used to prevent cascade errors, and trace the incoming request.
+https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-circuit-breaker-log-tracing-part-4-9cdf5e898988
 
-1. What’s your proudest achievement? It can be a personal project or something
-   you’ve worked on professionally. Just a short paragraph is fine, but I’d
-   love to know why you’re proud of it.
+4. Tell us about one of your favorite products (physical or software) and one specific aspect that makes it truly great.
 
-2. What's a personal project you're currently working on? This could be a
-   coding side project, hobby, or otherwise real world project you're working
-   on.
+Ans:- Amazon. One aspect that makes it truly great, is the ease of use and customer support.
 
-3. Tell us about a technical book or article you read recently, why you liked
-   it, and why we should read it.
-
-4. Tell us about one of your favorite products (physical or software) and one
-   specific aspect that makes it truly great.
-
-5. In this repo is a `data.json` file. It contains an imaginary example set
-   of data a customer might need to migrate from one system to another. It's a
-   JSON encoded array of objects. The customer understands some of the data
-   might be bad and wants to know which records are invalid so they can ensure
-   the new system will only have valid data. Write a program that will read
-   in the data and mark any records:
-
-   1. That are a duplicate of another record
-   2. `name` field is null, missing, or blank
-   3. `address` field is null, missing, or blank
-   4. `zip` is null, missing, or an invalid U.S. zipcode
-
-   Each record has an ID but that should only be used to identify a record,
-   not for validity or duplication testing (eg, two records may be identical
-   but have different IDs).
-
-The output of the program should list the IDs of each invalid or duplicate
-record, one per line. In the case of duplicates, mark both.
-
-Example:
-
-```
-123ba
-439a2
-99abc
-bac34
-```
-
-If you have any questions about the coding questions, please let us know.
