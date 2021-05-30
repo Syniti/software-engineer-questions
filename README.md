@@ -39,15 +39,23 @@ Here are the questions, good luck!
    you’ve worked on professionally. Just a short paragraph is fine, but I’d
    love to know why you’re proud of it.
 
+Ans : The proudest achievement for me is bulding my own project (Coeus) from scratch in golang, back when I was working in a non-techincal job, I have no idea about Golang or API building or anything. I took up the challenge to learn Golang and started creating a webapp which helps students to test their skills in their specific subject of interest. I'm the full stack developer for that project. For me that is the proudest achievement because it made me realize how fast learner and dedicated worker I am.
+
 2. What's a personal project you're currently working on? This could be a
    coding side project, hobby, or otherwise real world project you're working
    on.
 
+Ans: No, Nothing right now.
+
 3. Tell us about a technical book or article you read recently, why you liked
    it, and why we should read it.
 
+ Ans : I recently read about Edge Computing which talks about reducing the processing time and latency and bandwidth issues with cloud computing by processing some of the simple transactions or tasks at the local level by using the systems hardware and not hitting cloud for every small transaction. It enhances the way AI work in the future as AI algorithms involves more processing at faster rates. I particularly liked the idea of using the local resources or installing small hardware to the local devices for the operations rather than using cloud for every transaction.
+
 4. Tell us about one of your favorite products (physical or software) and one
    specific aspect that makes it truly great.
+
+Ans : My answer to this is Tesla cars - it is one of the greatest innovation a person can imagine,self driving cars. which makes use of sensors all around the car to decide the right path and speed to drive, it looks easier on the outside but it involves many complex algorithms working under the hood which makes it truly great.
 
 5. In this repo is a `data.json` file. It contains an imaginary example set
    of data a customer might need to migrate from one system to another. It's a
